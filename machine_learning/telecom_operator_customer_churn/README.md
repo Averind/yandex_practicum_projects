@@ -1,6 +1,6 @@
 **'Prediction of Churn in a Mobile Operator's Customers' project**
 
-Machine learning models were trained based on customer data of a mobile operator. The goal was to build a classification model that predicts whether a customer will leave the telecommunications operator or not.
+I trained Machine Learning models based on customer data of a mobile operator. The goal was to build a classification model that predicts whether a customer will leave the telecommunications operator or not.
 
 During the project, Decision Tree, Random Forest, Logistic Regression, LGBM, and Cat Boost models were trained, which showed the following results:
 
