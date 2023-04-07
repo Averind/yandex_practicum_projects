@@ -1,6 +1,4 @@
-Projects in Data Analysis, Machine Learning and Deep Learning, performed for Yandex.Practicum
-
-An **analytical project** is presented in the **data_analysis folder**.
+Projects in Machine Learning and Deep Learning, performed for Yandex.Practicum
 
 A **machine learning project** is presented in the **machine_learning folder**.
 
